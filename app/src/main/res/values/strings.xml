@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Criptomonedas Invest center</string>
+
+
+    <string name="send_email">Send Email</string>
+    <string name="error_email">No Email app installed</string>
+    <string name="name_crypto">Name: </string>
+    <string name="symbol_crypto">Symbol: </string>
+    <string name="price">Price: U$D %1s</string>
+    <string name="active">Active</string>
+    <string name="coin_logo">Coin Logo</string>
+    <string name="price_date">Price Date: %1s</string>
+    <string name="rank">Rank: %1s</string>
+</resources>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BTC",
+    "currency": "BTC",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btc.svg",
+    "status": "active",
+    "price": "57908.88281873",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:15:00Z",
+    "rank": "1"
+  },
+  {
+    "id": "ETH",
+    "currency": "ETH",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/eth.svg",
+    "status": "active",
+    "price": "3538.44529165",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:15:00Z",
+    "rank": "2"
+  },
+  {
+    "id": "XRP",
+    "currency": "XRP",
+    "symbol": "XRP",
+    "name": "Ripple",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/XRP.svg",
+    "status": "active",
+    "price": "1.58814403",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:15:00Z",
+    "rank": "5"
+  },
+  {
+    "id": "BNB",
+    "currency": "BNB",
+    "symbol": "BNB",
+    "name": "Binance Coin",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bnb.svg",
+    "status": "active",
+    "price": "629.10268366",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:19:00Z",
+    "rank": "3"
+  },
+  {
+    "id": "DOGE",
+    "currency": "DOGE",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/doge.svg",
+    "status": "active",
+    "price": "0.71696903",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:19:00Z",
+    "rank": "4"
+  },
+  {
+    "id": "USDT",
+    "currency": "USDT",
+    "symbol": "USDT",
+    "name": "Tether",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/usdt.svg",
+    "status": "active",
+    "price": "1.00244331",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:20:00Z",
+    "rank": "6"
+  },
+  {
+    "id": "ADA",
+    "currency": "ADA",
+    "symbol": "ADA",
+    "name": "Cardano",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ada.svg",
+    "status": "active",
+    "price": "1.61588727",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:21:00Z",
+    "rank": "7"
+  },
+  {
+    "id": "DOT",
+    "currency": "DOT",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOT.svg",
+    "status": "active",
+    "price": "39.69111329",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:21:00Z",
+    "rank": "8"
+  },
+  {
+    "id": "LTC",
+    "currency": "LTC",
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ltc.svg",
+    "status": "active",
+    "price": "346.83543123",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:22:00Z",
+    "rank": "10"
+  },
+  {
+    "id": "VET",
+    "currency": "VET",
+    "symbol": "VET",
+    "name": "VeChain Thor",
+    "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/vet.png",
+    "status": "active",
+    "price": "0.22979667",
+    "price_date": "2021-05-08T00:00:00Z",
+    "price_timestamp": "2021-05-08T06:23:00Z",
+    "rank": "16"
+  }
+]

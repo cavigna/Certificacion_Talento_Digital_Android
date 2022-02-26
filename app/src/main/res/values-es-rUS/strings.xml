@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Certificacion_TD</string>
+    <string name="send_email">Mandar un Email</string>
+    <string name="error_email">No hay app de Email Instalada</string>
+    <string name="name_crypto">"Nombre: "</string>
+    <string name="symbol_crypto">Símbolo:</string>
+    <string name="price">Precio:  U$D %1s</string>
+    <string name="active">Activo:</string>
+    <string name="coin_logo">Logo de Moneda</string>
+    <string name="price_date">Fecha del Precio: %1s</string>
+    <string name="rank">Ranking: %1s</string>
+</resources>
