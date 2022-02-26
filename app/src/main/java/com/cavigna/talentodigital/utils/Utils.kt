@@ -26,7 +26,7 @@ fun sendEmailIntent(coinDetails: CoinDetails, context: Context) {
     val i = Intent(Intent.ACTION_SEND)
     i.type = "message/rfc822"
 
-    i.putExtra(Intent.EXTRA_EMAIL, arrayOf("email@emial.com"))
+    i.putExtra(Intent.EXTRA_EMAIL, arrayOf(" Info@cryptoinvest.cl"))
     i.putExtra(Intent.EXTRA_SUBJECT, ": Solicito información sobre  ${coinDetails.id}")
     i.putExtra(
         Intent.EXTRA_TEXT, "“Hola\n" +
